@@ -15,3 +15,6 @@ Returns all the sentences that contains the word and the corresponding page numb
 | ------------- | ------------- |
 | 4  | She knew the essential conditions of the instrument.  |
 | 13  | A knife is an instrument to cut with.  |
+
+
+[Now run it on google colab notebook !](https://github.com/kavyajeetbora/document_word_search/blob/main/pdf_word_scanner_v2.ipynb)
